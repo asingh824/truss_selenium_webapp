@@ -1,0 +1,1004 @@
+2024-07-20 11:31:10,660 - INFO - WebDriver initialized successfully.
+2024-07-20 11:31:11,417 - INFO - Navigated to the web page.
+2024-07-20 11:31:11,420 - INFO - <html lang="en" data-mantine-color-scheme="light"><head>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/svg+xml" href="/assets/TrussLogo-blue.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TrussHealth AI</title>
+    <script type="module" crossorigin="" src="/assets/index-7d3cd56e.js"></script>
+    <link rel="stylesheet" href="/assets/index-c0cf31bf.css">
+  </head>
+  <body>
+    <div id="root"><style data-mantine-styles="true">:root{--mantine-font-family: Roboto, sans-serif;--mantine-font-family-monospace: Monaco, Courier, monospace;--mantine-font-family-headings: Roboto, sans-serif;--mantine-breakpoint-xs: 30em;--mantine-breakpoint-md: 64em;--mantine-breakpoint-lg: 74em;--mantine-breakpoint-xl: 90em;--mantine-font-size-xs: calc(0.625rem * var(--mantine-scale));--mantine-font-size-sm: calc(0.6875rem * var(--mantine-scale));--mantine-font-size-md: calc(0.875rem * var(--mantine-scale));--mantine-font-size-lg: calc(1rem * var(--mantine-scale));--mantine-font-size-headingText: calc(2.5rem * var(--mantine-scale));--mantine-font-size-textinput: calc(1.5625rem * var(--mantine-scale));--mantine-color-myblue-0: #011D2C;--mantine-color-myblue-1: #d7f5f5;--mantine-color-myblue-2: #b3e8e8;--mantine-color-myblue-3: #8adadb;--mantine-color-myblue-4: #6acecf;--mantine-color-myblue-5: #55c7c8;--mantine-color-myblue-6: #46c5c6;--mantine-color-myblue-7: #35adae;--mantine-color-myblue-8: #259b9c;--mantine-color-myblue-9: #008687;}:root[data-mantine-color-scheme="dark"]{--mantine-color-myblue-text: var(--mantine-color-myblue-4);--mantine-color-myblue-filled: var(--mantine-color-myblue-8);--mantine-color-myblue-filled-hover: var(--mantine-color-myblue-9);--mantine-color-myblue-light: rgba(70, 197, 198, 0.15);--mantine-color-myblue-light-hover: rgba(70, 197, 198, 0.2);--mantine-color-myblue-light-color: var(--mantine-color-myblue-3);--mantine-color-myblue-outline: var(--mantine-color-myblue-4);--mantine-color-myblue-outline-hover: rgba(106, 206, 207, 0.05);}:root[data-mantine-color-scheme="light"]{--mantine-color-myblue-text: var(--mantine-color-myblue-filled);--mantine-color-myblue-filled: var(--mantine-color-myblue-6);--mantine-color-myblue-filled-hover: var(--mantine-color-myblue-7);--mantine-color-myblue-light: rgba(70, 197, 198, 0.1);--mantine-color-myblue-light-hover: rgba(70, 197, 198, 0.12);--mantine-color-myblue-light-color: var(--mantine-color-myblue-6);--mantine-color-myblue-outline: var(--mantine-color-myblue-6);--mantine-color-myblue-outline-hover: rgba(70, 197, 198, 0.05);}</style><style data-mantine-styles="classes">@media (max-width: 29.99375em) {.mantine-visible-from-xs {display: none !important;}}@media (min-width: 30em) {.mantine-hidden-from-xs {display: none !important;}}@media (max-width: 47.99375em) {.mantine-visible-from-sm {display: none !important;}}@media (min-width: 48em) {.mantine-hidden-from-sm {display: none !important;}}@media (max-width: 63.99375em) {.mantine-visible-from-md {display: none !important;}}@media (min-width: 64em) {.mantine-hidden-from-md {display: none !important;}}@media (max-width: 73.99375em) {.mantine-visible-from-lg {display: none !important;}}@media (min-width: 74em) {.mantine-hidden-from-lg {display: none !important;}}@media (max-width: 89.99375em) {.mantine-visible-from-xl {display: none !important;}}@media (min-width: 90em) {.mantine-hidden-from-xl {display: none !important;}}</style><div class="m_7485cace mantine-Container-root" data-fluid="true" style="padding-inline: 0rem;"><style data-mantine-styles="inline">.__m__-r2{--grid-gutter:var(--mantine-spacing-md);}</style><div class="m_410352e9 mantine-Grid-root __m__-r2" style="min-height: 10vh; padding-inline: 0rem;"><div class="m_dee7bd2f mantine-Grid-inner"><style data-mantine-styles="inline">.__m__-r4{--col-flex-grow:auto;--col-flex-basis:100%;--col-max-width:100%;}</style><div class="m_96bdd299 mantine-Grid-col __m__-r4" style="height: 10vh; padding-inline: 0rem; padding-top: 0rem; padding-bottom: 0rem;"><div style="height: 10vh; position: fixed; width: 100%; z-index: 2;"><div class="" style="height: 100%;"><header class="_header_nrydi_1"><div class="m_4081bf90 mantine-Group-root" style="--group-gap: var(--mantine-spacing-md); --group-align: center; --group-justify: space-between; --group-wrap: wrap; height: 100%;"><img class="m_9e117634 mantine-Image-root" src="/assets/Truss-name-683fc146.png" width="80px" height="25px"><div class="_mainSection_nrydi_62 m_7485cace mantine-Container-root mantine-visible-from-md" data-size="md" data-fluid="true" style="margin-inline: 0rem;"><div class="m_4081bf90 mantine-Group-root" style="--group-gap: var(--mantine-spacing-md); --group-align: center; --group-justify: end; --group-wrap: wrap;"><button class="mantine-focus-auto _user_nrydi_66 m_87cf2631 mantine-UnstyledButton-root" type="button" aria-haspopup="menu" aria-expanded="false" aria-controls="mantine-6hyn7tk4b-dropdown" id="mantine-6hyn7tk4b-target"><div class="m_4081bf90 mantine-Group-root" style="--group-gap: calc(0.4375rem * var(--mantine-scale)); --group-align: center; --group-justify: flex-start; --group-wrap: wrap;"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#B3F9FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tabler-icon tabler-icon-user-circle" radius="xl"><path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0"></path><path d="M12 10m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0"></path><path d="M6.168 18.849a4 4 0 0 1 3.832 -2.849h4a4 4 0 0 1 3.834 2.855"></path></svg><p class="mantine-focus-auto m_b6d8b162 mantine-Text-root" data-size="sm" color="#B3F9FF" style="--text-fz: var(--mantine-font-size-sm); --text-lh: var(--mantine-line-height-sm); --text-color: #B3F9FF; margin-right: calc(0.1875rem * var(--mantine-scale)); font-weight: 500; line-height: 1;"></p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#B3F9FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="tabler-icon tabler-icon-chevron-down" style="width: calc(0.75rem * var(--mantine-scale)); height: calc(0.75rem * var(--mantine-scale));"><path d="M6 9l6 6l6 -6"></path></svg></div></button></div></div><button class="mantine-focus-auto m_fea6bf1a mantine-Burger-root m_87cf2631 mantine-UnstyledButton-root mantine-hidden-from-md" type="button" color="cyan" style="--burger-color: var(--mantine-color-cyan-filled); --burger-size: calc(4.375rem * var(--mantine-scale));"><div class="m_d4fb9cad mantine-Burger-burger" data-reduce-motion="true"></div></button></div></header></div></div></div></div></div><style data-mantine-styles="inline">.__m__-rj{--grid-gutter:var(--mantine-spacing-md);}</style><div class="m_410352e9 mantine-Grid-root __m__-rj"><div class="m_dee7bd2f mantine-Grid-inner"><style data-mantine-styles="inline">.__m__-rl{--col-flex-grow:auto;--col-flex-basis:16.666666666666668%;--col-max-width:16.666666666666668%;}@media(min-width: 30em){.__m__-rl{}}@media(min-width: 48em){.__m__-rl{}}@media(min-width: 64em){.__m__-rl{--col-flex-grow:auto;--col-flex-basis:16.666666666666668%;--col-max-width:16.666666666666668%;}}@media(min-width: 74em){.__m__-rl{--col-flex-grow:auto;--col-flex-basis:16.666666666666668%;--col-max-width:16.666666666666668%;}}@media(min-width: 90em){.__m__-rl{--col-flex-grow:auto;--col-flex-basis:16.666666666666668%;--col-max-width:16.666666666666668%;}}</style><div class="m_96bdd299 mantine-Grid-col __m__-rl mantine-visible-from-md" style="border-right: 1px solid rgb(179, 249, 255); min-height: 90vh;"><nav class="_navbar_hctg9_1"><div class="_links_hctg9_23 m_d57069b5 mantine-ScrollArea-root" style="--sa-corner-width: 0px; --sa-corner-height: 0px;"><div class="m_c0783ff9 mantine-ScrollArea-viewport" data-scrollbars="xy" style="overflow: scroll;"><div style="min-width: 100%; display: table;"><div class="_linksInner_hctg9_29"><button class="mantine-focus-auto _control_pe5xd_1  m_87cf2631 mantine-UnstyledButton-root" type="button"><div class="m_4081bf90 mantine-Group-root" style="--group-gap: 0rem; --group-align: center; --group-justify: space-between; --group-wrap: wrap;"><div class="" style="display: flex; align-items: center;"><div class="m_7341320d mantine-ThemeIcon-root" data-variant="light" style="--ti-size: calc(1.875rem * var(--mantine-scale)); --ti-bg: var(--mantine-color-blue-light); --ti-color: var(--mantine-color-blue-light-color); --ti-bd: calc(0.0625rem * var(--mantine-scale)) solid transparent;"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="" style="width: calc(1.125rem * var(--mantine-scale)); height: calc(1.125rem * var(--mantine-scale)); color: rgb(179, 249, 255);"><path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0"></path><path d="M12 12m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0"></path><path d="M13.41 10.59l2.59 -2.59"></path><path d="M7 12a5 5 0 0 1 5 -5"></path></svg></div><div class="" style="color: rgb(179, 249, 255); margin-left: var(--mantine-spacing-md);">Dashboard</div></div></div></button><button class="mantine-focus-auto _control_pe5xd_1  m_87cf2631 mantine-UnstyledButton-root" type="button"><div class="m_4081bf90 mantine-Group-root" style="--group-gap: 0rem; --group-align: center; --group-justify: space-between; --group-wrap: wrap;"><div class="" style="display: flex; align-items: center;"><div class="m_7341320d mantine-ThemeIcon-root" data-variant="light" style="--ti-size: calc(1.875rem * var(--mantine-scale)); --ti-bg: var(--mantine-color-blue-light); --ti-color: var(--mantine-color-blue-light-color); --ti-bd: calc(0.0625rem * var(--mantine-scale)) solid transparent;"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="" style="width: calc(1.125rem * var(--mantine-scale)); height: calc(1.125rem * var(--mantine-scale)); color: rgb(179, 249, 255);"><path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0"></path><path d="M12 12m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0"></path><path d="M13.41 10.59l2.59 -2.59"></path><path d="M7 12a5 5 0 0 1 5 -5"></path></svg></div><div class="" style="color: rgb(179, 249, 255); margin-left: var(--mantine-spacing-md);">Patients</div></div></div></button><button class="mantine-focus-auto _control_pe5xd_1  m_87cf2631 mantine-UnstyledButton-root" type="button"><div class="m_4081bf90 mantine-Group-root" style="--group-gap: 0rem; --group-align: center; --group-justify: space-between; --group-wrap: wrap;"><div class="" style="display: flex; align-items: center;"><div class="m_7341320d mantine-ThemeIcon-root" data-variant="light" style="--ti-size: calc(1.875rem * var(--mantine-scale)); --ti-bg: var(--mantine-color-blue-light); --ti-color: var(--mantine-color-blue-light-color); --ti-bd: calc(0.0625rem * var(--mantine-scale)) solid transparent;"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="" style="width: calc(1.125rem * var(--mantine-scale)); height: calc(1.125rem * var(--mantine-scale)); color: rgb(179, 249, 255);"><path d="M14 8v-2a2 2 0 0 0 -2 -2h-7a2 2 0 0 0 -2 2v12a2 2 0 0 0 2 2h7a2 2 0 0 0 2 -2v-2"></path><path d="M9 12h12l-3 -3"></path><path d="M18 15l3 -3"></path></svg></div><div class="" style="color: rgb(179, 249, 255); margin-left: var(--mantine-spacing-md);">Logout</div></div></div></button></div></div></div></div></nav></div><style data-mantine-styles="inline">.__m__-r18{--col-flex-grow:auto;--col-flex-basis:100%;--col-max-width:100%;}@media(min-width: 30em){.__m__-r18{--col-flex-grow:auto;--col-flex-basis:100%;--col-max-width:100%;}}@media(min-width: 48em){.__m__-r18{--col-flex-grow:auto;--col-flex-basis:100%;--col-max-width:100%;}}@media(min-width: 64em){.__m__-r18{--col-flex-grow:auto;--col-flex-basis:83.33333333333334%;--col-max-width:83.33333333333334%;}}@media(min-width: 74em){.__m__-r18{--col-flex-grow:auto;--col-flex-basis:83.33333333333334%;--col-max-width:83.33333333333334%;}}@media(min-width: 90em){.__m__-r18{--col-flex-grow:auto;--col-flex-basis:83.33333333333334%;--col-max-width:83.33333333333334%;}}</style><div class="m_96bdd299 mantine-Grid-col __m__-r18" style="height: 100%;"><div class="m_7485cace mantine-Container-root" data-fluid="true" style="min-height: 100vh; background: rgb(255, 255, 255); margin: auto; padding: calc(1.25rem * var(--mantine-scale)); width: 100%;"><style data-mantine-styles="inline">.__m__-r1b{--grid-gutter:var(--mantine-spacing-md);}</style><div class="m_410352e9 mantine-Grid-root __m__-r1b" style="margin: 0rem; padding: 0rem;"><div class="m_dee7bd2f mantine-Grid-inner"><style data-mantine-styles="inline">.__m__-r1d{--col-flex-grow:auto;--col-flex-basis:100%;--col-max-width:100%;}</style><div class="m_96bdd299 mantine-Grid-col __m__-r1d" style="margin: 0rem; padding: 0rem;"><div class="m_4081bf90 mantine-Group-root" d="flex" style="--group-gap: var(--mantine-spacing-md); --group-align: center; --group-justify: space-between; --group-wrap: wrap;"><button class="mantine-focus-auto mantine-active back-btn m_77c9d27d mantine-Button-root m_87cf2631 mantine-UnstyledButton-root" type="button" style="--button-radius: calc(1.875rem * var(--mantine-scale)); --button-color: var(--mantine-color-white);"><span class="m_80f1301b mantine-Button-inner"><span class="m_811560b9 mantine-Button-label"> <img class="m_9e117634 mantine-Image-root" src="/assets/backbutton-aebd049b.svg" style="width: calc(0.8125rem * var(--mantine-scale)); height: calc(0.8125rem * var(--mantine-scale));"> &nbsp; Back</span></span></button><button class="mantine-focus-auto mantine-active restart-service-btn m_77c9d27d mantine-Button-root m_87cf2631 mantine-UnstyledButton-root" data-with-left-section="true" type="button" style="--button-radius: calc(1.875rem * var(--mantine-scale)); --button-color: var(--mantine-color-white);"><span class="m_80f1301b mantine-Button-inner"><span class="m_a74036a mantine-Button-section" data-position="left"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--inputcolor)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tabler-icon tabler-icon-rotate"><path d="M19.95 11a8 8 0 1 0 -.5 4m.5 5v-5h-5"></path></svg></span><span class="m_811560b9 mantine-Button-label">Reinitiate Service</span></span></button></div></div></div></div><style data-mantine-styles="inline">.__m__-r1m{--grid-gutter:var(--mantine-spacing-md);}</style><div class="m_410352e9 mantine-Grid-root __m__-r1m" style="margin: 0rem; padding: 0rem;"><div class="m_dee7bd2f mantine-Grid-inner"><style data-mantine-styles="inline">.__m__-r1o{--col-flex-grow:auto;--col-flex-basis:100%;--col-max-width:100%;}</style><div class="m_96bdd299 mantine-Grid-col __m__-r1o" style="margin: 0rem; padding: 0rem;"><div class=""><div class="m_4451eb3a mantine-Center-root" style="height: calc(21.875rem * var(--mantine-scale));"><span class="m_b34414df m_5ae2e3c mantine-Loader-root" data-size="xl" style="--loader-size: var(--loader-size-xl);"></span></div></div></div></div></div></div></div></div></div></div></div>
+    
+  
+
+<div data-portal="true"><div class="m_b37d9ac7 mantine-Notifications-root" style="--notifications-z-index: 1000; --notifications-top: var(--mantine-spacing-md); --notifications-right: var(--mantine-spacing-md); --notifications-container-width: calc(27.5rem * var(--mantine-scale));"><div></div></div></div><div data-portal="true"><div><div class="m_9df02822 mantine-Modal-root" style="--modal-y-offset: 5dvh; --mb-z-index: 201;"></div></div></div><div data-portal="true"></div><div data-portal="true"><div><div class="m_f11b401e mantine-Drawer-root" style="--drawer-size: 30%; --mb-z-index: 1000000; --mb-padding: var(--mantine-spacing-md); background: rgb(164, 229, 248);"></div></div></div></body></html>
+2024-07-20 11:31:31,564 - ERROR - Error during upload and submit process: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000104955078 chromedriver + 5169272
+1   chromedriver                        0x000000010494cf4a chromedriver + 5136202
+2   chromedriver                        0x00000001044c936c chromedriver + 402284
+3   chromedriver                        0x0000000104516740 chromedriver + 718656
+4   chromedriver                        0x0000000104516a01 chromedriver + 719361
+5   chromedriver                        0x000000010455bbc4 chromedriver + 1002436
+6   chromedriver                        0x0000000104539add chromedriver + 862941
+7   chromedriver                        0x0000000104558f57 chromedriver + 991063
+8   chromedriver                        0x0000000104539853 chromedriver + 862291
+9   chromedriver                        0x00000001045095c6 chromedriver + 665030
+10  chromedriver                        0x0000000104509e4e chromedriver + 667214
+11  chromedriver                        0x0000000104917c90 chromedriver + 4918416
+12  chromedriver                        0x000000010491cc8d chromedriver + 4938893
+13  chromedriver                        0x000000010491d365 chromedriver + 4940645
+14  chromedriver                        0x00000001048f8d74 chromedriver + 4791668
+15  chromedriver                        0x000000010491d659 chromedriver + 4941401
+16  chromedriver                        0x00000001048ea544 chromedriver + 4732228
+17  chromedriver                        0x000000010493d828 chromedriver + 5072936
+18  chromedriver                        0x000000010493d9e7 chromedriver + 5073383
+19  chromedriver                        0x000000010494cafe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff80e2bd18b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff80e2b8ae3 thread_start + 15
+
+2024-07-20 11:31:31,565 - ERROR - Test failed: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000104955078 chromedriver + 5169272
+1   chromedriver                        0x000000010494cf4a chromedriver + 5136202
+2   chromedriver                        0x00000001044c936c chromedriver + 402284
+3   chromedriver                        0x0000000104516740 chromedriver + 718656
+4   chromedriver                        0x0000000104516a01 chromedriver + 719361
+5   chromedriver                        0x000000010455bbc4 chromedriver + 1002436
+6   chromedriver                        0x0000000104539add chromedriver + 862941
+7   chromedriver                        0x0000000104558f57 chromedriver + 991063
+8   chromedriver                        0x0000000104539853 chromedriver + 862291
+9   chromedriver                        0x00000001045095c6 chromedriver + 665030
+10  chromedriver                        0x0000000104509e4e chromedriver + 667214
+11  chromedriver                        0x0000000104917c90 chromedriver + 4918416
+12  chromedriver                        0x000000010491cc8d chromedriver + 4938893
+13  chromedriver                        0x000000010491d365 chromedriver + 4940645
+14  chromedriver                        0x00000001048f8d74 chromedriver + 4791668
+15  chromedriver                        0x000000010491d659 chromedriver + 4941401
+16  chromedriver                        0x00000001048ea544 chromedriver + 4732228
+17  chromedriver                        0x000000010493d828 chromedriver + 5072936
+18  chromedriver                        0x000000010493d9e7 chromedriver + 5073383
+19  chromedriver                        0x000000010494cafe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff80e2bd18b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff80e2b8ae3 thread_start + 15
+
+2024-07-20 11:31:31,637 - INFO - WebDriver closed.
+2024-07-20 16:33:50,094 - INFO - WebDriver initialized successfully.
+2024-07-20 16:33:51,445 - INFO - Navigated to the web page.
+2024-07-20 16:33:51,491 - INFO - <html lang="en" data-mantine-color-scheme="light"><head>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/svg+xml" href="/assets/TrussLogo-blue.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TrussHealth AI</title>
+    <script type="module" crossorigin="" src="/assets/index-7d3cd56e.js"></script>
+    <link rel="stylesheet" href="/assets/index-c0cf31bf.css">
+  </head>
+  <body>
+    <div id="root"><style data-mantine-styles="true">:root{--mantine-font-family: Roboto, sans-serif;--mantine-font-family-monospace: Monaco, Courier, monospace;--mantine-font-family-headings: Roboto, sans-serif;--mantine-breakpoint-xs: 30em;--mantine-breakpoint-md: 64em;--mantine-breakpoint-lg: 74em;--mantine-breakpoint-xl: 90em;--mantine-font-size-xs: calc(0.625rem * var(--mantine-scale));--mantine-font-size-sm: calc(0.6875rem * var(--mantine-scale));--mantine-font-size-md: calc(0.875rem * var(--mantine-scale));--mantine-font-size-lg: calc(1rem * var(--mantine-scale));--mantine-font-size-headingText: calc(2.5rem * var(--mantine-scale));--mantine-font-size-textinput: calc(1.5625rem * var(--mantine-scale));--mantine-color-myblue-0: #011D2C;--mantine-color-myblue-1: #d7f5f5;--mantine-color-myblue-2: #b3e8e8;--mantine-color-myblue-3: #8adadb;--mantine-color-myblue-4: #6acecf;--mantine-color-myblue-5: #55c7c8;--mantine-color-myblue-6: #46c5c6;--mantine-color-myblue-7: #35adae;--mantine-color-myblue-8: #259b9c;--mantine-color-myblue-9: #008687;}:root[data-mantine-color-scheme="dark"]{--mantine-color-myblue-text: var(--mantine-color-myblue-4);--mantine-color-myblue-filled: var(--mantine-color-myblue-8);--mantine-color-myblue-filled-hover: var(--mantine-color-myblue-9);--mantine-color-myblue-light: rgba(70, 197, 198, 0.15);--mantine-color-myblue-light-hover: rgba(70, 197, 198, 0.2);--mantine-color-myblue-light-color: var(--mantine-color-myblue-3);--mantine-color-myblue-outline: var(--mantine-color-myblue-4);--mantine-color-myblue-outline-hover: rgba(106, 206, 207, 0.05);}:root[data-mantine-color-scheme="light"]{--mantine-color-myblue-text: var(--mantine-color-myblue-filled);--mantine-color-myblue-filled: var(--mantine-color-myblue-6);--mantine-color-myblue-filled-hover: var(--mantine-color-myblue-7);--mantine-color-myblue-light: rgba(70, 197, 198, 0.1);--mantine-color-myblue-light-hover: rgba(70, 197, 198, 0.12);--mantine-color-myblue-light-color: var(--mantine-color-myblue-6);--mantine-color-myblue-outline: var(--mantine-color-myblue-6);--mantine-color-myblue-outline-hover: rgba(70, 197, 198, 0.05);}</style><style data-mantine-styles="classes">@media (max-width: 29.99375em) {.mantine-visible-from-xs {display: none !important;}}@media (min-width: 30em) {.mantine-hidden-from-xs {display: none !important;}}@media (max-width: 47.99375em) {.mantine-visible-from-sm {display: none !important;}}@media (min-width: 48em) {.mantine-hidden-from-sm {display: none !important;}}@media (max-width: 63.99375em) {.mantine-visible-from-md {display: none !important;}}@media (min-width: 64em) {.mantine-hidden-from-md {display: none !important;}}@media (max-width: 73.99375em) {.mantine-visible-from-lg {display: none !important;}}@media (min-width: 74em) {.mantine-hidden-from-lg {display: none !important;}}@media (max-width: 89.99375em) {.mantine-visible-from-xl {display: none !important;}}@media (min-width: 90em) {.mantine-hidden-from-xl {display: none !important;}}</style><div class="m_7485cace mantine-Container-root" data-fluid="true" style="padding-inline: 0rem;"><style data-mantine-styles="inline">.__m__-r2{--grid-gutter:var(--mantine-spacing-md);}</style><div class="m_410352e9 mantine-Grid-root __m__-r2" style="min-height: 10vh; padding-inline: 0rem;"><div class="m_dee7bd2f mantine-Grid-inner"><style data-mantine-styles="inline">.__m__-r4{--col-flex-grow:auto;--col-flex-basis:100%;--col-max-width:100%;}</style><div class="m_96bdd299 mantine-Grid-col __m__-r4" style="height: 10vh; padding-inline: 0rem; padding-top: 0rem; padding-bottom: 0rem;"><div style="height: 10vh; position: fixed; width: 100%; z-index: 2;"><div class="" style="height: 100%;"><header class="_header_nrydi_1"><div class="m_4081bf90 mantine-Group-root" style="--group-gap: var(--mantine-spacing-md); --group-align: center; --group-justify: space-between; --group-wrap: wrap; height: 100%;"><img class="m_9e117634 mantine-Image-root" src="/assets/Truss-name-683fc146.png" width="80px" height="25px"><div class="_mainSection_nrydi_62 m_7485cace mantine-Container-root mantine-visible-from-md" data-size="md" data-fluid="true" style="margin-inline: 0rem;"><div class="m_4081bf90 mantine-Group-root" style="--group-gap: var(--mantine-spacing-md); --group-align: center; --group-justify: end; --group-wrap: wrap;"><button class="mantine-focus-auto _user_nrydi_66 m_87cf2631 mantine-UnstyledButton-root" type="button" aria-haspopup="menu" aria-expanded="false" aria-controls="mantine-swp7w9w0q-dropdown" id="mantine-swp7w9w0q-target"><div class="m_4081bf90 mantine-Group-root" style="--group-gap: calc(0.4375rem * var(--mantine-scale)); --group-align: center; --group-justify: flex-start; --group-wrap: wrap;"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#B3F9FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tabler-icon tabler-icon-user-circle" radius="xl"><path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0"></path><path d="M12 10m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0"></path><path d="M6.168 18.849a4 4 0 0 1 3.832 -2.849h4a4 4 0 0 1 3.834 2.855"></path></svg><p class="mantine-focus-auto m_b6d8b162 mantine-Text-root" data-size="sm" color="#B3F9FF" style="--text-fz: var(--mantine-font-size-sm); --text-lh: var(--mantine-line-height-sm); --text-color: #B3F9FF; margin-right: calc(0.1875rem * var(--mantine-scale)); font-weight: 500; line-height: 1;"></p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#B3F9FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="tabler-icon tabler-icon-chevron-down" style="width: calc(0.75rem * var(--mantine-scale)); height: calc(0.75rem * var(--mantine-scale));"><path d="M6 9l6 6l6 -6"></path></svg></div></button></div></div><button class="mantine-focus-auto m_fea6bf1a mantine-Burger-root m_87cf2631 mantine-UnstyledButton-root mantine-hidden-from-md" type="button" color="cyan" style="--burger-color: var(--mantine-color-cyan-filled); --burger-size: calc(4.375rem * var(--mantine-scale));"><div class="m_d4fb9cad mantine-Burger-burger" data-reduce-motion="true"></div></button></div></header></div></div></div></div></div><style data-mantine-styles="inline">.__m__-rj{--grid-gutter:var(--mantine-spacing-md);}</style><div class="m_410352e9 mantine-Grid-root __m__-rj"><div class="m_dee7bd2f mantine-Grid-inner"><style data-mantine-styles="inline">.__m__-rl{--col-flex-grow:auto;--col-flex-basis:16.666666666666668%;--col-max-width:16.666666666666668%;}@media(min-width: 30em){.__m__-rl{}}@media(min-width: 48em){.__m__-rl{}}@media(min-width: 64em){.__m__-rl{--col-flex-grow:auto;--col-flex-basis:16.666666666666668%;--col-max-width:16.666666666666668%;}}@media(min-width: 74em){.__m__-rl{--col-flex-grow:auto;--col-flex-basis:16.666666666666668%;--col-max-width:16.666666666666668%;}}@media(min-width: 90em){.__m__-rl{--col-flex-grow:auto;--col-flex-basis:16.666666666666668%;--col-max-width:16.666666666666668%;}}</style><div class="m_96bdd299 mantine-Grid-col __m__-rl mantine-visible-from-md" style="border-right: 1px solid rgb(179, 249, 255); min-height: 90vh;"><nav class="_navbar_hctg9_1"><div class="_links_hctg9_23 m_d57069b5 mantine-ScrollArea-root" style="--sa-corner-width: 0px; --sa-corner-height: 0px;"><div class="m_c0783ff9 mantine-ScrollArea-viewport" data-scrollbars="xy" style="overflow: scroll;"><div style="min-width: 100%; display: table;"><div class="_linksInner_hctg9_29"><button class="mantine-focus-auto _control_pe5xd_1  m_87cf2631 mantine-UnstyledButton-root" type="button"><div class="m_4081bf90 mantine-Group-root" style="--group-gap: 0rem; --group-align: center; --group-justify: space-between; --group-wrap: wrap;"><div class="" style="display: flex; align-items: center;"><div class="m_7341320d mantine-ThemeIcon-root" data-variant="light" style="--ti-size: calc(1.875rem * var(--mantine-scale)); --ti-bg: var(--mantine-color-blue-light); --ti-color: var(--mantine-color-blue-light-color); --ti-bd: calc(0.0625rem * var(--mantine-scale)) solid transparent;"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="" style="width: calc(1.125rem * var(--mantine-scale)); height: calc(1.125rem * var(--mantine-scale)); color: rgb(179, 249, 255);"><path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0"></path><path d="M12 12m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0"></path><path d="M13.41 10.59l2.59 -2.59"></path><path d="M7 12a5 5 0 0 1 5 -5"></path></svg></div><div class="" style="color: rgb(179, 249, 255); margin-left: var(--mantine-spacing-md);">Dashboard</div></div></div></button><button class="mantine-focus-auto _control_pe5xd_1  m_87cf2631 mantine-UnstyledButton-root" type="button"><div class="m_4081bf90 mantine-Group-root" style="--group-gap: 0rem; --group-align: center; --group-justify: space-between; --group-wrap: wrap;"><div class="" style="display: flex; align-items: center;"><div class="m_7341320d mantine-ThemeIcon-root" data-variant="light" style="--ti-size: calc(1.875rem * var(--mantine-scale)); --ti-bg: var(--mantine-color-blue-light); --ti-color: var(--mantine-color-blue-light-color); --ti-bd: calc(0.0625rem * var(--mantine-scale)) solid transparent;"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="" style="width: calc(1.125rem * var(--mantine-scale)); height: calc(1.125rem * var(--mantine-scale)); color: rgb(179, 249, 255);"><path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0"></path><path d="M12 12m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0"></path><path d="M13.41 10.59l2.59 -2.59"></path><path d="M7 12a5 5 0 0 1 5 -5"></path></svg></div><div class="" style="color: rgb(179, 249, 255); margin-left: var(--mantine-spacing-md);">Patients</div></div></div></button><button class="mantine-focus-auto _control_pe5xd_1  m_87cf2631 mantine-UnstyledButton-root" type="button"><div class="m_4081bf90 mantine-Group-root" style="--group-gap: 0rem; --group-align: center; --group-justify: space-between; --group-wrap: wrap;"><div class="" style="display: flex; align-items: center;"><div class="m_7341320d mantine-ThemeIcon-root" data-variant="light" style="--ti-size: calc(1.875rem * var(--mantine-scale)); --ti-bg: var(--mantine-color-blue-light); --ti-color: var(--mantine-color-blue-light-color); --ti-bd: calc(0.0625rem * var(--mantine-scale)) solid transparent;"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="" style="width: calc(1.125rem * var(--mantine-scale)); height: calc(1.125rem * var(--mantine-scale)); color: rgb(179, 249, 255);"><path d="M14 8v-2a2 2 0 0 0 -2 -2h-7a2 2 0 0 0 -2 2v12a2 2 0 0 0 2 2h7a2 2 0 0 0 2 -2v-2"></path><path d="M9 12h12l-3 -3"></path><path d="M18 15l3 -3"></path></svg></div><div class="" style="color: rgb(179, 249, 255); margin-left: var(--mantine-spacing-md);">Logout</div></div></div></button></div></div></div></div></nav></div><style data-mantine-styles="inline">.__m__-r18{--col-flex-grow:auto;--col-flex-basis:100%;--col-max-width:100%;}@media(min-width: 30em){.__m__-r18{--col-flex-grow:auto;--col-flex-basis:100%;--col-max-width:100%;}}@media(min-width: 48em){.__m__-r18{--col-flex-grow:auto;--col-flex-basis:100%;--col-max-width:100%;}}@media(min-width: 64em){.__m__-r18{--col-flex-grow:auto;--col-flex-basis:83.33333333333334%;--col-max-width:83.33333333333334%;}}@media(min-width: 74em){.__m__-r18{--col-flex-grow:auto;--col-flex-basis:83.33333333333334%;--col-max-width:83.33333333333334%;}}@media(min-width: 90em){.__m__-r18{--col-flex-grow:auto;--col-flex-basis:83.33333333333334%;--col-max-width:83.33333333333334%;}}</style><div class="m_96bdd299 mantine-Grid-col __m__-r18" style="height: 100%;"><div class="m_7485cace mantine-Container-root" data-fluid="true" style="min-height: 100vh; background: rgb(255, 255, 255); margin: auto; padding: calc(1.25rem * var(--mantine-scale)); width: 100%;"><style data-mantine-styles="inline">.__m__-r1b{--grid-gutter:var(--mantine-spacing-md);}</style><div class="m_410352e9 mantine-Grid-root __m__-r1b" style="margin: 0rem; padding: 0rem;"><div class="m_dee7bd2f mantine-Grid-inner"><style data-mantine-styles="inline">.__m__-r1d{--col-flex-grow:auto;--col-flex-basis:100%;--col-max-width:100%;}</style><div class="m_96bdd299 mantine-Grid-col __m__-r1d" style="margin: 0rem; padding: 0rem;"><div class="m_4081bf90 mantine-Group-root" d="flex" style="--group-gap: var(--mantine-spacing-md); --group-align: center; --group-justify: space-between; --group-wrap: wrap;"><button class="mantine-focus-auto mantine-active back-btn m_77c9d27d mantine-Button-root m_87cf2631 mantine-UnstyledButton-root" type="button" style="--button-radius: calc(1.875rem * var(--mantine-scale)); --button-color: var(--mantine-color-white);"><span class="m_80f1301b mantine-Button-inner"><span class="m_811560b9 mantine-Button-label"> <img class="m_9e117634 mantine-Image-root" src="/assets/backbutton-aebd049b.svg" style="width: calc(0.8125rem * var(--mantine-scale)); height: calc(0.8125rem * var(--mantine-scale));"> &nbsp; Back</span></span></button><button class="mantine-focus-auto mantine-active restart-service-btn m_77c9d27d mantine-Button-root m_87cf2631 mantine-UnstyledButton-root" data-with-left-section="true" type="button" style="--button-radius: calc(1.875rem * var(--mantine-scale)); --button-color: var(--mantine-color-white);"><span class="m_80f1301b mantine-Button-inner"><span class="m_a74036a mantine-Button-section" data-position="left"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--inputcolor)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tabler-icon tabler-icon-rotate"><path d="M19.95 11a8 8 0 1 0 -.5 4m.5 5v-5h-5"></path></svg></span><span class="m_811560b9 mantine-Button-label">Reinitiate Service</span></span></button></div></div></div></div><style data-mantine-styles="inline">.__m__-r1m{--grid-gutter:var(--mantine-spacing-md);}</style><div class="m_410352e9 mantine-Grid-root __m__-r1m" style="margin: 0rem; padding: 0rem;"><div class="m_dee7bd2f mantine-Grid-inner"><style data-mantine-styles="inline">.__m__-r1o{--col-flex-grow:auto;--col-flex-basis:100%;--col-max-width:100%;}</style><div class="m_96bdd299 mantine-Grid-col __m__-r1o" style="margin: 0rem; padding: 0rem;"><div class=""><div class="m_4451eb3a mantine-Center-root" style="height: calc(21.875rem * var(--mantine-scale));"><span class="m_b34414df m_5ae2e3c mantine-Loader-root" data-size="xl" style="--loader-size: var(--loader-size-xl);"></span></div></div></div></div></div></div></div></div></div></div></div>
+    
+  
+
+<div data-portal="true"><div class="m_b37d9ac7 mantine-Notifications-root" style="--notifications-z-index: 1000; --notifications-top: var(--mantine-spacing-md); --notifications-right: var(--mantine-spacing-md); --notifications-container-width: calc(27.5rem * var(--mantine-scale));"><div></div></div></div><div data-portal="true"><div><div class="m_9df02822 mantine-Modal-root" style="--modal-y-offset: 5dvh; --mb-z-index: 201;"></div></div></div><div data-portal="true"></div><div data-portal="true"><div><div class="m_f11b401e mantine-Drawer-root" style="--drawer-size: 30%; --mb-z-index: 1000000; --mb-padding: var(--mantine-spacing-md); background: rgb(164, 229, 248);"></div></div></div></body></html>
+2024-07-20 16:34:11,970 - ERROR - Error during upload and submit process: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010a484078 chromedriver + 5169272
+1   chromedriver                        0x000000010a47bf4a chromedriver + 5136202
+2   chromedriver                        0x0000000109ff836c chromedriver + 402284
+3   chromedriver                        0x000000010a045740 chromedriver + 718656
+4   chromedriver                        0x000000010a045a01 chromedriver + 719361
+5   chromedriver                        0x000000010a08abc4 chromedriver + 1002436
+6   chromedriver                        0x000000010a068add chromedriver + 862941
+7   chromedriver                        0x000000010a087f57 chromedriver + 991063
+8   chromedriver                        0x000000010a068853 chromedriver + 862291
+9   chromedriver                        0x000000010a0385c6 chromedriver + 665030
+10  chromedriver                        0x000000010a038e4e chromedriver + 667214
+11  chromedriver                        0x000000010a446c90 chromedriver + 4918416
+12  chromedriver                        0x000000010a44bc8d chromedriver + 4938893
+13  chromedriver                        0x000000010a44c365 chromedriver + 4940645
+14  chromedriver                        0x000000010a427d74 chromedriver + 4791668
+15  chromedriver                        0x000000010a44c659 chromedriver + 4941401
+16  chromedriver                        0x000000010a419544 chromedriver + 4732228
+17  chromedriver                        0x000000010a46c828 chromedriver + 5072936
+18  chromedriver                        0x000000010a46c9e7 chromedriver + 5073383
+19  chromedriver                        0x000000010a47bafe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff80e2bd18b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff80e2b8ae3 thread_start + 15
+
+2024-07-20 16:34:11,970 - ERROR - Test failed: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010a484078 chromedriver + 5169272
+1   chromedriver                        0x000000010a47bf4a chromedriver + 5136202
+2   chromedriver                        0x0000000109ff836c chromedriver + 402284
+3   chromedriver                        0x000000010a045740 chromedriver + 718656
+4   chromedriver                        0x000000010a045a01 chromedriver + 719361
+5   chromedriver                        0x000000010a08abc4 chromedriver + 1002436
+6   chromedriver                        0x000000010a068add chromedriver + 862941
+7   chromedriver                        0x000000010a087f57 chromedriver + 991063
+8   chromedriver                        0x000000010a068853 chromedriver + 862291
+9   chromedriver                        0x000000010a0385c6 chromedriver + 665030
+10  chromedriver                        0x000000010a038e4e chromedriver + 667214
+11  chromedriver                        0x000000010a446c90 chromedriver + 4918416
+12  chromedriver                        0x000000010a44bc8d chromedriver + 4938893
+13  chromedriver                        0x000000010a44c365 chromedriver + 4940645
+14  chromedriver                        0x000000010a427d74 chromedriver + 4791668
+15  chromedriver                        0x000000010a44c659 chromedriver + 4941401
+16  chromedriver                        0x000000010a419544 chromedriver + 4732228
+17  chromedriver                        0x000000010a46c828 chromedriver + 5072936
+18  chromedriver                        0x000000010a46c9e7 chromedriver + 5073383
+19  chromedriver                        0x000000010a47bafe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff80e2bd18b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff80e2b8ae3 thread_start + 15
+
+2024-07-20 16:34:12,037 - INFO - WebDriver closed.
+2024-07-23 23:13:14,837 - INFO - WebDriver initialized successfully.
+2024-07-23 23:13:15,760 - INFO - Navigated to the login page.
+2024-07-23 23:13:15,772 - ERROR - Failed to locate login elements: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="mantine-839vuc"]"}
+  (Session info: chrome-headless-shell=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010fbef078 chromedriver + 5169272
+1   chromedriver                        0x000000010fbe6f4a chromedriver + 5136202
+2   chromedriver                        0x000000010f76336c chromedriver + 402284
+3   chromedriver                        0x000000010f7b0740 chromedriver + 718656
+4   chromedriver                        0x000000010f7b0a01 chromedriver + 719361
+5   chromedriver                        0x000000010f7f5bc4 chromedriver + 1002436
+6   chromedriver                        0x000000010f7d3add chromedriver + 862941
+7   chromedriver                        0x000000010f7f2f57 chromedriver + 991063
+8   chromedriver                        0x000000010f7d3853 chromedriver + 862291
+9   chromedriver                        0x000000010f7a35c6 chromedriver + 665030
+10  chromedriver                        0x000000010f7a3e4e chromedriver + 667214
+11  chromedriver                        0x000000010fbb1c90 chromedriver + 4918416
+12  chromedriver                        0x000000010fbb6c8d chromedriver + 4938893
+13  chromedriver                        0x000000010fbb7365 chromedriver + 4940645
+14  chromedriver                        0x000000010fb92d74 chromedriver + 4791668
+15  chromedriver                        0x000000010fbb7659 chromedriver + 4941401
+16  chromedriver                        0x000000010fb84544 chromedriver + 4732228
+17  chromedriver                        0x000000010fbd7828 chromedriver + 5072936
+18  chromedriver                        0x000000010fbd79e7 chromedriver + 5073383
+19  chromedriver                        0x000000010fbe6afe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff807a0518b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff807a00ae3 thread_start + 15
+
+2024-07-23 23:13:15,772 - ERROR - One or more login elements were not found.
+2024-07-23 23:13:15,842 - INFO - WebDriver closed.
+2024-07-23 23:22:44,797 - INFO - WebDriver initialized successfully.
+2024-07-23 23:22:45,854 - INFO - Navigated to the login page.
+2024-07-23 23:22:45,865 - ERROR - Failed to locate login elements: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="mantine-8staizmo8"]"}
+  (Session info: chrome-headless-shell=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010a993078 chromedriver + 5169272
+1   chromedriver                        0x000000010a98af4a chromedriver + 5136202
+2   chromedriver                        0x000000010a50736c chromedriver + 402284
+3   chromedriver                        0x000000010a554740 chromedriver + 718656
+4   chromedriver                        0x000000010a554a01 chromedriver + 719361
+5   chromedriver                        0x000000010a599bc4 chromedriver + 1002436
+6   chromedriver                        0x000000010a577add chromedriver + 862941
+7   chromedriver                        0x000000010a596f57 chromedriver + 991063
+8   chromedriver                        0x000000010a577853 chromedriver + 862291
+9   chromedriver                        0x000000010a5475c6 chromedriver + 665030
+10  chromedriver                        0x000000010a547e4e chromedriver + 667214
+11  chromedriver                        0x000000010a955c90 chromedriver + 4918416
+12  chromedriver                        0x000000010a95ac8d chromedriver + 4938893
+13  chromedriver                        0x000000010a95b365 chromedriver + 4940645
+14  chromedriver                        0x000000010a936d74 chromedriver + 4791668
+15  chromedriver                        0x000000010a95b659 chromedriver + 4941401
+16  chromedriver                        0x000000010a928544 chromedriver + 4732228
+17  chromedriver                        0x000000010a97b828 chromedriver + 5072936
+18  chromedriver                        0x000000010a97b9e7 chromedriver + 5073383
+19  chromedriver                        0x000000010a98aafe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff807a0518b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff807a00ae3 thread_start + 15
+
+2024-07-23 23:22:45,865 - ERROR - One or more login elements were not found.
+2024-07-23 23:22:45,933 - INFO - WebDriver closed.
+2024-07-23 23:38:29,960 - INFO - WebDriver initialized successfully.
+2024-07-23 23:38:31,078 - INFO - Navigated to the login page.
+2024-07-23 23:38:31,108 - ERROR - Failed to locate login elements: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="mantine-8staizmo8"]"}
+  (Session info: chrome-headless-shell=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000106fb3078 chromedriver + 5169272
+1   chromedriver                        0x0000000106faaf4a chromedriver + 5136202
+2   chromedriver                        0x0000000106b2736c chromedriver + 402284
+3   chromedriver                        0x0000000106b74740 chromedriver + 718656
+4   chromedriver                        0x0000000106b74a01 chromedriver + 719361
+5   chromedriver                        0x0000000106bb9bc4 chromedriver + 1002436
+6   chromedriver                        0x0000000106b97add chromedriver + 862941
+7   chromedriver                        0x0000000106bb6f57 chromedriver + 991063
+8   chromedriver                        0x0000000106b97853 chromedriver + 862291
+9   chromedriver                        0x0000000106b675c6 chromedriver + 665030
+10  chromedriver                        0x0000000106b67e4e chromedriver + 667214
+11  chromedriver                        0x0000000106f75c90 chromedriver + 4918416
+12  chromedriver                        0x0000000106f7ac8d chromedriver + 4938893
+13  chromedriver                        0x0000000106f7b365 chromedriver + 4940645
+14  chromedriver                        0x0000000106f56d74 chromedriver + 4791668
+15  chromedriver                        0x0000000106f7b659 chromedriver + 4941401
+16  chromedriver                        0x0000000106f48544 chromedriver + 4732228
+17  chromedriver                        0x0000000106f9b828 chromedriver + 5072936
+18  chromedriver                        0x0000000106f9b9e7 chromedriver + 5073383
+19  chromedriver                        0x0000000106faaafe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff807a0518b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff807a00ae3 thread_start + 15
+
+2024-07-23 23:38:31,108 - ERROR - One or more login elements were not found.
+2024-07-23 23:38:31,176 - INFO - WebDriver closed.
+2024-07-23 23:45:07,058 - INFO - WebDriver initialized successfully.
+2024-07-23 23:45:08,108 - INFO - Navigated to the login page.
+2024-07-23 23:45:08,117 - INFO - Email field located.
+2024-07-23 23:45:08,126 - ERROR - Failed to locate login elements: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="mantine-qn17h1di1"]"}
+  (Session info: chrome-headless-shell=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000106e3a078 chromedriver + 5169272
+1   chromedriver                        0x0000000106e31f4a chromedriver + 5136202
+2   chromedriver                        0x00000001069ae36c chromedriver + 402284
+3   chromedriver                        0x00000001069fb740 chromedriver + 718656
+4   chromedriver                        0x00000001069fba01 chromedriver + 719361
+5   chromedriver                        0x0000000106a40bc4 chromedriver + 1002436
+6   chromedriver                        0x0000000106a1eadd chromedriver + 862941
+7   chromedriver                        0x0000000106a3df57 chromedriver + 991063
+8   chromedriver                        0x0000000106a1e853 chromedriver + 862291
+9   chromedriver                        0x00000001069ee5c6 chromedriver + 665030
+10  chromedriver                        0x00000001069eee4e chromedriver + 667214
+11  chromedriver                        0x0000000106dfcc90 chromedriver + 4918416
+12  chromedriver                        0x0000000106e01c8d chromedriver + 4938893
+13  chromedriver                        0x0000000106e02365 chromedriver + 4940645
+14  chromedriver                        0x0000000106dddd74 chromedriver + 4791668
+15  chromedriver                        0x0000000106e02659 chromedriver + 4941401
+16  chromedriver                        0x0000000106dcf544 chromedriver + 4732228
+17  chromedriver                        0x0000000106e22828 chromedriver + 5072936
+18  chromedriver                        0x0000000106e229e7 chromedriver + 5073383
+19  chromedriver                        0x0000000106e31afe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff807a0518b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff807a00ae3 thread_start + 15
+
+2024-07-23 23:45:08,126 - ERROR - One or more login elements were not found.
+2024-07-23 23:45:08,192 - INFO - WebDriver closed.
+2024-07-24 01:06:16,062 - INFO - WebDriver initialized successfully.
+2024-07-24 01:06:17,181 - INFO - Navigated to the login page.
+2024-07-24 01:06:17,192 - INFO - Email field located.
+2024-07-24 01:06:17,200 - ERROR - Failed to locate login elements: Message: no such element: Unable to locate element: {"method":"css selector","selector":"#mantine-qn17h1di1"}
+  (Session info: chrome-headless-shell=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000101f11078 chromedriver + 5169272
+1   chromedriver                        0x0000000101f08f4a chromedriver + 5136202
+2   chromedriver                        0x0000000101a8536c chromedriver + 402284
+3   chromedriver                        0x0000000101ad2740 chromedriver + 718656
+4   chromedriver                        0x0000000101ad2a01 chromedriver + 719361
+5   chromedriver                        0x0000000101b17bc4 chromedriver + 1002436
+6   chromedriver                        0x0000000101af5add chromedriver + 862941
+7   chromedriver                        0x0000000101b14f57 chromedriver + 991063
+8   chromedriver                        0x0000000101af5853 chromedriver + 862291
+9   chromedriver                        0x0000000101ac55c6 chromedriver + 665030
+10  chromedriver                        0x0000000101ac5e4e chromedriver + 667214
+11  chromedriver                        0x0000000101ed3c90 chromedriver + 4918416
+12  chromedriver                        0x0000000101ed8c8d chromedriver + 4938893
+13  chromedriver                        0x0000000101ed9365 chromedriver + 4940645
+14  chromedriver                        0x0000000101eb4d74 chromedriver + 4791668
+15  chromedriver                        0x0000000101ed9659 chromedriver + 4941401
+16  chromedriver                        0x0000000101ea6544 chromedriver + 4732228
+17  chromedriver                        0x0000000101ef9828 chromedriver + 5072936
+18  chromedriver                        0x0000000101ef99e7 chromedriver + 5073383
+19  chromedriver                        0x0000000101f08afe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff807a0518b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff807a00ae3 thread_start + 15
+
+2024-07-24 01:06:17,201 - ERROR - One or more login elements were not found.
+2024-07-24 01:06:17,271 - INFO - WebDriver closed.
+2024-07-24 01:16:25,639 - INFO - WebDriver initialized successfully.
+2024-07-24 01:16:27,257 - INFO - Navigated to the login page.
+2024-07-24 01:16:27,270 - INFO - Email field located.
+2024-07-24 01:16:27,281 - ERROR - Failed to locate login elements: Message: no such element: Unable to locate element: {"method":"css selector","selector":".m_f2d85dd2 mantine-PasswordInput-innerInput"}
+  (Session info: chrome-headless-shell=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000109d8a078 chromedriver + 5169272
+1   chromedriver                        0x0000000109d81f4a chromedriver + 5136202
+2   chromedriver                        0x00000001098fe36c chromedriver + 402284
+3   chromedriver                        0x000000010994b740 chromedriver + 718656
+4   chromedriver                        0x000000010994ba01 chromedriver + 719361
+5   chromedriver                        0x0000000109990bc4 chromedriver + 1002436
+6   chromedriver                        0x000000010996eadd chromedriver + 862941
+7   chromedriver                        0x000000010998df57 chromedriver + 991063
+8   chromedriver                        0x000000010996e853 chromedriver + 862291
+9   chromedriver                        0x000000010993e5c6 chromedriver + 665030
+10  chromedriver                        0x000000010993ee4e chromedriver + 667214
+11  chromedriver                        0x0000000109d4cc90 chromedriver + 4918416
+12  chromedriver                        0x0000000109d51c8d chromedriver + 4938893
+13  chromedriver                        0x0000000109d52365 chromedriver + 4940645
+14  chromedriver                        0x0000000109d2dd74 chromedriver + 4791668
+15  chromedriver                        0x0000000109d52659 chromedriver + 4941401
+16  chromedriver                        0x0000000109d1f544 chromedriver + 4732228
+17  chromedriver                        0x0000000109d72828 chromedriver + 5072936
+18  chromedriver                        0x0000000109d729e7 chromedriver + 5073383
+19  chromedriver                        0x0000000109d81afe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff807a0518b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff807a00ae3 thread_start + 15
+
+2024-07-24 01:16:27,281 - ERROR - One or more login elements were not found.
+2024-07-24 01:16:27,358 - INFO - WebDriver closed.
+2024-07-24 01:19:38,305 - INFO - WebDriver initialized successfully.
+2024-07-24 01:19:39,173 - INFO - Navigated to the login page.
+2024-07-24 01:19:39,186 - INFO - Email field located.
+2024-07-24 01:19:39,197 - ERROR - Failed to locate login elements: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="mantine-9392e56hk"]"}
+  (Session info: chrome-headless-shell=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001017db078 chromedriver + 5169272
+1   chromedriver                        0x00000001017d2f4a chromedriver + 5136202
+2   chromedriver                        0x000000010134f36c chromedriver + 402284
+3   chromedriver                        0x000000010139c740 chromedriver + 718656
+4   chromedriver                        0x000000010139ca01 chromedriver + 719361
+5   chromedriver                        0x00000001013e1bc4 chromedriver + 1002436
+6   chromedriver                        0x00000001013bfadd chromedriver + 862941
+7   chromedriver                        0x00000001013def57 chromedriver + 991063
+8   chromedriver                        0x00000001013bf853 chromedriver + 862291
+9   chromedriver                        0x000000010138f5c6 chromedriver + 665030
+10  chromedriver                        0x000000010138fe4e chromedriver + 667214
+11  chromedriver                        0x000000010179dc90 chromedriver + 4918416
+12  chromedriver                        0x00000001017a2c8d chromedriver + 4938893
+13  chromedriver                        0x00000001017a3365 chromedriver + 4940645
+14  chromedriver                        0x000000010177ed74 chromedriver + 4791668
+15  chromedriver                        0x00000001017a3659 chromedriver + 4941401
+16  chromedriver                        0x0000000101770544 chromedriver + 4732228
+17  chromedriver                        0x00000001017c3828 chromedriver + 5072936
+18  chromedriver                        0x00000001017c39e7 chromedriver + 5073383
+19  chromedriver                        0x00000001017d2afe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff807a0518b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff807a00ae3 thread_start + 15
+
+2024-07-24 01:19:39,197 - ERROR - One or more login elements were not found.
+2024-07-24 01:19:39,276 - INFO - WebDriver closed.
+2024-07-24 01:21:44,854 - INFO - WebDriver initialized successfully.
+2024-07-24 01:21:45,985 - INFO - Navigated to the login page.
+2024-07-24 01:21:46,001 - INFO - Email field located.
+2024-07-24 01:21:46,013 - ERROR - Failed to locate login elements: Message: no such element: Unable to locate element: {"method":"css selector","selector":".mantine-focus-auto mantine-active m_77c9d27d mantine-Button-root m_87cf2631 mantine-UnstyledButton-root"}
+  (Session info: chrome-headless-shell=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010adec078 chromedriver + 5169272
+1   chromedriver                        0x000000010ade3f4a chromedriver + 5136202
+2   chromedriver                        0x000000010a96036c chromedriver + 402284
+3   chromedriver                        0x000000010a9ad740 chromedriver + 718656
+4   chromedriver                        0x000000010a9ada01 chromedriver + 719361
+5   chromedriver                        0x000000010a9f2bc4 chromedriver + 1002436
+6   chromedriver                        0x000000010a9d0add chromedriver + 862941
+7   chromedriver                        0x000000010a9eff57 chromedriver + 991063
+8   chromedriver                        0x000000010a9d0853 chromedriver + 862291
+9   chromedriver                        0x000000010a9a05c6 chromedriver + 665030
+10  chromedriver                        0x000000010a9a0e4e chromedriver + 667214
+11  chromedriver                        0x000000010adaec90 chromedriver + 4918416
+12  chromedriver                        0x000000010adb3c8d chromedriver + 4938893
+13  chromedriver                        0x000000010adb4365 chromedriver + 4940645
+14  chromedriver                        0x000000010ad8fd74 chromedriver + 4791668
+15  chromedriver                        0x000000010adb4659 chromedriver + 4941401
+16  chromedriver                        0x000000010ad81544 chromedriver + 4732228
+17  chromedriver                        0x000000010add4828 chromedriver + 5072936
+18  chromedriver                        0x000000010add49e7 chromedriver + 5073383
+19  chromedriver                        0x000000010ade3afe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff807a0518b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff807a00ae3 thread_start + 15
+
+2024-07-24 01:21:46,013 - ERROR - One or more login elements were not found.
+2024-07-24 01:21:46,091 - INFO - WebDriver closed.
+2024-07-24 01:25:43,944 - INFO - WebDriver initialized successfully.
+2024-07-24 01:25:44,914 - INFO - Navigated to the login page.
+2024-07-24 01:25:44,927 - INFO - Email field located.
+2024-07-24 01:25:44,939 - INFO - Password field located.
+2024-07-24 01:25:44,950 - INFO - Login button located.
+2024-07-24 01:25:45,551 - INFO - Login button clicked.
+2024-07-24 01:25:50,634 - INFO - WebDriver closed.
+2024-07-24 01:29:51,508 - INFO - WebDriver initialized successfully.
+2024-07-24 01:29:52,778 - INFO - Navigated to the login page.
+2024-07-24 01:29:52,794 - INFO - Email field located.
+2024-07-24 01:29:52,808 - ERROR - Failed to locate login elements: Message: no such element: Unable to locate element: {"method":"css selector","selector":"#mantine-9392e56hk"}
+  (Session info: chrome-headless-shell=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010f92a078 chromedriver + 5169272
+1   chromedriver                        0x000000010f921f4a chromedriver + 5136202
+2   chromedriver                        0x000000010f49e36c chromedriver + 402284
+3   chromedriver                        0x000000010f4eb740 chromedriver + 718656
+4   chromedriver                        0x000000010f4eba01 chromedriver + 719361
+5   chromedriver                        0x000000010f530bc4 chromedriver + 1002436
+6   chromedriver                        0x000000010f50eadd chromedriver + 862941
+7   chromedriver                        0x000000010f52df57 chromedriver + 991063
+8   chromedriver                        0x000000010f50e853 chromedriver + 862291
+9   chromedriver                        0x000000010f4de5c6 chromedriver + 665030
+10  chromedriver                        0x000000010f4dee4e chromedriver + 667214
+11  chromedriver                        0x000000010f8ecc90 chromedriver + 4918416
+12  chromedriver                        0x000000010f8f1c8d chromedriver + 4938893
+13  chromedriver                        0x000000010f8f2365 chromedriver + 4940645
+14  chromedriver                        0x000000010f8cdd74 chromedriver + 4791668
+15  chromedriver                        0x000000010f8f2659 chromedriver + 4941401
+16  chromedriver                        0x000000010f8bf544 chromedriver + 4732228
+17  chromedriver                        0x000000010f912828 chromedriver + 5072936
+18  chromedriver                        0x000000010f9129e7 chromedriver + 5073383
+19  chromedriver                        0x000000010f921afe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff807a0518b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff807a00ae3 thread_start + 15
+
+2024-07-24 01:29:52,809 - ERROR - One or more login elements were not found.
+2024-07-24 01:29:52,886 - INFO - WebDriver closed.
+2024-07-24 01:31:14,207 - INFO - WebDriver initialized successfully.
+2024-07-24 01:31:15,357 - INFO - Navigated to the login page.
+2024-07-24 01:31:15,366 - INFO - Email field located.
+2024-07-24 01:31:15,374 - ERROR - Failed to locate login elements: Message: no such element: Unable to locate element: {"method":"css selector","selector":"#mantine-9392e56hk"}
+  (Session info: chrome-headless-shell=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001035d4078 chromedriver + 5169272
+1   chromedriver                        0x00000001035cbf4a chromedriver + 5136202
+2   chromedriver                        0x000000010314836c chromedriver + 402284
+3   chromedriver                        0x0000000103195740 chromedriver + 718656
+4   chromedriver                        0x0000000103195a01 chromedriver + 719361
+5   chromedriver                        0x00000001031dabc4 chromedriver + 1002436
+6   chromedriver                        0x00000001031b8add chromedriver + 862941
+7   chromedriver                        0x00000001031d7f57 chromedriver + 991063
+8   chromedriver                        0x00000001031b8853 chromedriver + 862291
+9   chromedriver                        0x00000001031885c6 chromedriver + 665030
+10  chromedriver                        0x0000000103188e4e chromedriver + 667214
+11  chromedriver                        0x0000000103596c90 chromedriver + 4918416
+12  chromedriver                        0x000000010359bc8d chromedriver + 4938893
+13  chromedriver                        0x000000010359c365 chromedriver + 4940645
+14  chromedriver                        0x0000000103577d74 chromedriver + 4791668
+15  chromedriver                        0x000000010359c659 chromedriver + 4941401
+16  chromedriver                        0x0000000103569544 chromedriver + 4732228
+17  chromedriver                        0x00000001035bc828 chromedriver + 5072936
+18  chromedriver                        0x00000001035bc9e7 chromedriver + 5073383
+19  chromedriver                        0x00000001035cbafe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff807a0518b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff807a00ae3 thread_start + 15
+
+2024-07-24 01:31:15,375 - ERROR - One or more login elements were not found.
+2024-07-24 01:31:15,447 - INFO - WebDriver closed.
+2024-07-24 01:44:45,324 - INFO - WebDriver initialized successfully.
+2024-07-24 01:44:46,679 - INFO - Navigated to the login page.
+2024-07-24 01:44:46,688 - INFO - Email field located.
+2024-07-24 01:44:56,937 - ERROR - Failed to locate login elements: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010c902078 chromedriver + 5169272
+1   chromedriver                        0x000000010c8f9f4a chromedriver + 5136202
+2   chromedriver                        0x000000010c47636c chromedriver + 402284
+3   chromedriver                        0x000000010c4c3740 chromedriver + 718656
+4   chromedriver                        0x000000010c4c3a01 chromedriver + 719361
+5   chromedriver                        0x000000010c508bc4 chromedriver + 1002436
+6   chromedriver                        0x000000010c4e6add chromedriver + 862941
+7   chromedriver                        0x000000010c505f57 chromedriver + 991063
+8   chromedriver                        0x000000010c4e6853 chromedriver + 862291
+9   chromedriver                        0x000000010c4b65c6 chromedriver + 665030
+10  chromedriver                        0x000000010c4b6e4e chromedriver + 667214
+11  chromedriver                        0x000000010c8c4c90 chromedriver + 4918416
+12  chromedriver                        0x000000010c8c9c8d chromedriver + 4938893
+13  chromedriver                        0x000000010c8ca365 chromedriver + 4940645
+14  chromedriver                        0x000000010c8a5d74 chromedriver + 4791668
+15  chromedriver                        0x000000010c8ca659 chromedriver + 4941401
+16  chromedriver                        0x000000010c897544 chromedriver + 4732228
+17  chromedriver                        0x000000010c8ea828 chromedriver + 5072936
+18  chromedriver                        0x000000010c8ea9e7 chromedriver + 5073383
+19  chromedriver                        0x000000010c8f9afe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff807a0518b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff807a00ae3 thread_start + 15
+
+2024-07-24 01:44:56,937 - ERROR - One or more login elements were not found.
+2024-07-24 01:44:57,014 - INFO - WebDriver closed.
+2024-07-24 01:48:08,990 - INFO - WebDriver initialized successfully.
+2024-07-24 01:48:09,975 - INFO - Navigated to the login page.
+2024-07-24 01:48:09,985 - INFO - Email field located.
+2024-07-24 01:48:20,179 - ERROR - Failed to locate login elements: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010e062078 chromedriver + 5169272
+1   chromedriver                        0x000000010e059f4a chromedriver + 5136202
+2   chromedriver                        0x000000010dbd636c chromedriver + 402284
+3   chromedriver                        0x000000010dc23740 chromedriver + 718656
+4   chromedriver                        0x000000010dc23a01 chromedriver + 719361
+5   chromedriver                        0x000000010dc68bc4 chromedriver + 1002436
+6   chromedriver                        0x000000010dc46add chromedriver + 862941
+7   chromedriver                        0x000000010dc65f57 chromedriver + 991063
+8   chromedriver                        0x000000010dc46853 chromedriver + 862291
+9   chromedriver                        0x000000010dc165c6 chromedriver + 665030
+10  chromedriver                        0x000000010dc16e4e chromedriver + 667214
+11  chromedriver                        0x000000010e024c90 chromedriver + 4918416
+12  chromedriver                        0x000000010e029c8d chromedriver + 4938893
+13  chromedriver                        0x000000010e02a365 chromedriver + 4940645
+14  chromedriver                        0x000000010e005d74 chromedriver + 4791668
+15  chromedriver                        0x000000010e02a659 chromedriver + 4941401
+16  chromedriver                        0x000000010dff7544 chromedriver + 4732228
+17  chromedriver                        0x000000010e04a828 chromedriver + 5072936
+18  chromedriver                        0x000000010e04a9e7 chromedriver + 5073383
+19  chromedriver                        0x000000010e059afe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff807a0518b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff807a00ae3 thread_start + 15
+
+2024-07-24 01:48:20,179 - ERROR - One or more login elements were not found.
+2024-07-24 01:48:20,248 - INFO - WebDriver closed.
+2024-07-24 01:55:12,995 - INFO - WebDriver initialized successfully.
+2024-07-24 01:55:14,064 - INFO - Navigated to the login page.
+2024-07-24 01:55:14,086 - INFO - Email field located.
+2024-07-24 01:55:24,334 - ERROR - Failed to locate login elements: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010bd6e078 chromedriver + 5169272
+1   chromedriver                        0x000000010bd65f4a chromedriver + 5136202
+2   chromedriver                        0x000000010b8e236c chromedriver + 402284
+3   chromedriver                        0x000000010b92f740 chromedriver + 718656
+4   chromedriver                        0x000000010b92fa01 chromedriver + 719361
+5   chromedriver                        0x000000010b974bc4 chromedriver + 1002436
+6   chromedriver                        0x000000010b952add chromedriver + 862941
+7   chromedriver                        0x000000010b971f57 chromedriver + 991063
+8   chromedriver                        0x000000010b952853 chromedriver + 862291
+9   chromedriver                        0x000000010b9225c6 chromedriver + 665030
+10  chromedriver                        0x000000010b922e4e chromedriver + 667214
+11  chromedriver                        0x000000010bd30c90 chromedriver + 4918416
+12  chromedriver                        0x000000010bd35c8d chromedriver + 4938893
+13  chromedriver                        0x000000010bd36365 chromedriver + 4940645
+14  chromedriver                        0x000000010bd11d74 chromedriver + 4791668
+15  chromedriver                        0x000000010bd36659 chromedriver + 4941401
+16  chromedriver                        0x000000010bd03544 chromedriver + 4732228
+17  chromedriver                        0x000000010bd56828 chromedriver + 5072936
+18  chromedriver                        0x000000010bd569e7 chromedriver + 5073383
+19  chromedriver                        0x000000010bd65afe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff807a0518b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff807a00ae3 thread_start + 15
+
+2024-07-24 01:55:24,334 - ERROR - One or more login elements were not found.
+2024-07-24 01:55:24,406 - INFO - WebDriver closed.
+2024-07-24 01:57:42,407 - INFO - WebDriver initialized successfully.
+2024-07-24 01:58:09,118 - INFO - Navigated to the login page.
+2024-07-24 01:58:09,143 - INFO - Email field located.
+2024-07-24 01:58:19,389 - ERROR - Failed to locate login elements: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010f5da078 chromedriver + 5169272
+1   chromedriver                        0x000000010f5d1f4a chromedriver + 5136202
+2   chromedriver                        0x000000010f14e36c chromedriver + 402284
+3   chromedriver                        0x000000010f19b740 chromedriver + 718656
+4   chromedriver                        0x000000010f19ba01 chromedriver + 719361
+5   chromedriver                        0x000000010f1e0bc4 chromedriver + 1002436
+6   chromedriver                        0x000000010f1beadd chromedriver + 862941
+7   chromedriver                        0x000000010f1ddf57 chromedriver + 991063
+8   chromedriver                        0x000000010f1be853 chromedriver + 862291
+9   chromedriver                        0x000000010f18e5c6 chromedriver + 665030
+10  chromedriver                        0x000000010f18ee4e chromedriver + 667214
+11  chromedriver                        0x000000010f59cc90 chromedriver + 4918416
+12  chromedriver                        0x000000010f5a1c8d chromedriver + 4938893
+13  chromedriver                        0x000000010f5a2365 chromedriver + 4940645
+14  chromedriver                        0x000000010f57dd74 chromedriver + 4791668
+15  chromedriver                        0x000000010f5a2659 chromedriver + 4941401
+16  chromedriver                        0x000000010f56f544 chromedriver + 4732228
+17  chromedriver                        0x000000010f5c2828 chromedriver + 5072936
+18  chromedriver                        0x000000010f5c29e7 chromedriver + 5073383
+19  chromedriver                        0x000000010f5d1afe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff807a0518b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff807a00ae3 thread_start + 15
+
+2024-07-24 01:58:19,389 - ERROR - One or more login elements were not found.
+2024-07-24 01:58:19,463 - INFO - WebDriver closed.
+2024-07-24 02:00:58,961 - INFO - WebDriver initialized successfully.
+2024-07-24 02:01:00,239 - INFO - Navigated to the login page.
+2024-07-24 02:01:00,261 - INFO - Email field located.
+2024-07-24 02:01:10,502 - ERROR - Failed to locate login elements: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000101ea2078 chromedriver + 5169272
+1   chromedriver                        0x0000000101e99f4a chromedriver + 5136202
+2   chromedriver                        0x0000000101a1636c chromedriver + 402284
+3   chromedriver                        0x0000000101a63740 chromedriver + 718656
+4   chromedriver                        0x0000000101a63a01 chromedriver + 719361
+5   chromedriver                        0x0000000101aa8bc4 chromedriver + 1002436
+6   chromedriver                        0x0000000101a86add chromedriver + 862941
+7   chromedriver                        0x0000000101aa5f57 chromedriver + 991063
+8   chromedriver                        0x0000000101a86853 chromedriver + 862291
+9   chromedriver                        0x0000000101a565c6 chromedriver + 665030
+10  chromedriver                        0x0000000101a56e4e chromedriver + 667214
+11  chromedriver                        0x0000000101e64c90 chromedriver + 4918416
+12  chromedriver                        0x0000000101e69c8d chromedriver + 4938893
+13  chromedriver                        0x0000000101e6a365 chromedriver + 4940645
+14  chromedriver                        0x0000000101e45d74 chromedriver + 4791668
+15  chromedriver                        0x0000000101e6a659 chromedriver + 4941401
+16  chromedriver                        0x0000000101e37544 chromedriver + 4732228
+17  chromedriver                        0x0000000101e8a828 chromedriver + 5072936
+18  chromedriver                        0x0000000101e8a9e7 chromedriver + 5073383
+19  chromedriver                        0x0000000101e99afe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff807a0518b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff807a00ae3 thread_start + 15
+
+2024-07-24 02:01:10,503 - ERROR - One or more login elements were not found.
+2024-07-24 02:01:10,577 - INFO - WebDriver closed.
+2024-07-24 02:02:17,235 - INFO - WebDriver initialized successfully.
+2024-07-24 02:02:18,149 - INFO - Navigated to the login page.
+2024-07-24 02:02:18,172 - INFO - Email field located.
+2024-07-24 02:02:28,417 - ERROR - Failed to locate login elements: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010bc2e078 chromedriver + 5169272
+1   chromedriver                        0x000000010bc25f4a chromedriver + 5136202
+2   chromedriver                        0x000000010b7a236c chromedriver + 402284
+3   chromedriver                        0x000000010b7ef740 chromedriver + 718656
+4   chromedriver                        0x000000010b7efa01 chromedriver + 719361
+5   chromedriver                        0x000000010b834bc4 chromedriver + 1002436
+6   chromedriver                        0x000000010b812add chromedriver + 862941
+7   chromedriver                        0x000000010b831f57 chromedriver + 991063
+8   chromedriver                        0x000000010b812853 chromedriver + 862291
+9   chromedriver                        0x000000010b7e25c6 chromedriver + 665030
+10  chromedriver                        0x000000010b7e2e4e chromedriver + 667214
+11  chromedriver                        0x000000010bbf0c90 chromedriver + 4918416
+12  chromedriver                        0x000000010bbf5c8d chromedriver + 4938893
+13  chromedriver                        0x000000010bbf6365 chromedriver + 4940645
+14  chromedriver                        0x000000010bbd1d74 chromedriver + 4791668
+15  chromedriver                        0x000000010bbf6659 chromedriver + 4941401
+16  chromedriver                        0x000000010bbc3544 chromedriver + 4732228
+17  chromedriver                        0x000000010bc16828 chromedriver + 5072936
+18  chromedriver                        0x000000010bc169e7 chromedriver + 5073383
+19  chromedriver                        0x000000010bc25afe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff807a0518b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff807a00ae3 thread_start + 15
+
+2024-07-24 02:02:28,418 - ERROR - One or more login elements were not found.
+2024-07-24 02:02:28,492 - INFO - WebDriver closed.
+2024-07-24 02:02:58,567 - INFO - WebDriver initialized successfully.
+2024-07-24 02:02:59,346 - INFO - Navigated to the login page.
+2024-07-24 02:02:59,355 - INFO - Email field located.
+2024-07-24 02:03:09,600 - ERROR - Failed to locate login elements: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010d2d0078 chromedriver + 5169272
+1   chromedriver                        0x000000010d2c7f4a chromedriver + 5136202
+2   chromedriver                        0x000000010ce4436c chromedriver + 402284
+3   chromedriver                        0x000000010ce91740 chromedriver + 718656
+4   chromedriver                        0x000000010ce91a01 chromedriver + 719361
+5   chromedriver                        0x000000010ced6bc4 chromedriver + 1002436
+6   chromedriver                        0x000000010ceb4add chromedriver + 862941
+7   chromedriver                        0x000000010ced3f57 chromedriver + 991063
+8   chromedriver                        0x000000010ceb4853 chromedriver + 862291
+9   chromedriver                        0x000000010ce845c6 chromedriver + 665030
+10  chromedriver                        0x000000010ce84e4e chromedriver + 667214
+11  chromedriver                        0x000000010d292c90 chromedriver + 4918416
+12  chromedriver                        0x000000010d297c8d chromedriver + 4938893
+13  chromedriver                        0x000000010d298365 chromedriver + 4940645
+14  chromedriver                        0x000000010d273d74 chromedriver + 4791668
+15  chromedriver                        0x000000010d298659 chromedriver + 4941401
+16  chromedriver                        0x000000010d265544 chromedriver + 4732228
+17  chromedriver                        0x000000010d2b8828 chromedriver + 5072936
+18  chromedriver                        0x000000010d2b89e7 chromedriver + 5073383
+19  chromedriver                        0x000000010d2c7afe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff807a0518b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff807a00ae3 thread_start + 15
+
+2024-07-24 02:03:09,601 - ERROR - One or more login elements were not found.
+2024-07-24 02:03:09,673 - INFO - WebDriver closed.
+2024-07-24 02:05:36,197 - INFO - WebDriver initialized successfully.
+2024-07-24 02:05:36,996 - INFO - Navigated to the login page.
+2024-07-24 02:05:37,022 - INFO - Email field located.
+2024-07-24 02:05:47,229 - ERROR - Failed to locate login elements: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001011c1078 chromedriver + 5169272
+1   chromedriver                        0x00000001011b8f4a chromedriver + 5136202
+2   chromedriver                        0x0000000100d3536c chromedriver + 402284
+3   chromedriver                        0x0000000100d82740 chromedriver + 718656
+4   chromedriver                        0x0000000100d82a01 chromedriver + 719361
+5   chromedriver                        0x0000000100dc7bc4 chromedriver + 1002436
+6   chromedriver                        0x0000000100da5add chromedriver + 862941
+7   chromedriver                        0x0000000100dc4f57 chromedriver + 991063
+8   chromedriver                        0x0000000100da5853 chromedriver + 862291
+9   chromedriver                        0x0000000100d755c6 chromedriver + 665030
+10  chromedriver                        0x0000000100d75e4e chromedriver + 667214
+11  chromedriver                        0x0000000101183c90 chromedriver + 4918416
+12  chromedriver                        0x0000000101188c8d chromedriver + 4938893
+13  chromedriver                        0x0000000101189365 chromedriver + 4940645
+14  chromedriver                        0x0000000101164d74 chromedriver + 4791668
+15  chromedriver                        0x0000000101189659 chromedriver + 4941401
+16  chromedriver                        0x0000000101156544 chromedriver + 4732228
+17  chromedriver                        0x00000001011a9828 chromedriver + 5072936
+18  chromedriver                        0x00000001011a99e7 chromedriver + 5073383
+19  chromedriver                        0x00000001011b8afe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff807a0518b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff807a00ae3 thread_start + 15
+
+2024-07-24 02:05:47,229 - ERROR - One or more login elements were not found.
+2024-07-24 02:05:47,297 - INFO - WebDriver closed.
+2024-07-24 02:06:46,004 - INFO - WebDriver initialized successfully.
+2024-07-24 02:06:46,900 - INFO - Navigated to the login page.
+2024-07-24 02:06:57,142 - ERROR - Failed to locate login elements: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010336b078 chromedriver + 5169272
+1   chromedriver                        0x0000000103362f4a chromedriver + 5136202
+2   chromedriver                        0x0000000102edf36c chromedriver + 402284
+3   chromedriver                        0x0000000102f2c740 chromedriver + 718656
+4   chromedriver                        0x0000000102f2ca01 chromedriver + 719361
+5   chromedriver                        0x0000000102f71bc4 chromedriver + 1002436
+6   chromedriver                        0x0000000102f4fadd chromedriver + 862941
+7   chromedriver                        0x0000000102f6ef57 chromedriver + 991063
+8   chromedriver                        0x0000000102f4f853 chromedriver + 862291
+9   chromedriver                        0x0000000102f1f5c6 chromedriver + 665030
+10  chromedriver                        0x0000000102f1fe4e chromedriver + 667214
+11  chromedriver                        0x000000010332dc90 chromedriver + 4918416
+12  chromedriver                        0x0000000103332c8d chromedriver + 4938893
+13  chromedriver                        0x0000000103333365 chromedriver + 4940645
+14  chromedriver                        0x000000010330ed74 chromedriver + 4791668
+15  chromedriver                        0x0000000103333659 chromedriver + 4941401
+16  chromedriver                        0x0000000103300544 chromedriver + 4732228
+17  chromedriver                        0x0000000103353828 chromedriver + 5072936
+18  chromedriver                        0x00000001033539e7 chromedriver + 5073383
+19  chromedriver                        0x0000000103362afe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff807a0518b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff807a00ae3 thread_start + 15
+
+2024-07-24 02:06:57,142 - ERROR - One or more login elements were not found.
+2024-07-24 02:06:57,217 - INFO - WebDriver closed.
+2024-07-24 02:08:01,958 - INFO - WebDriver initialized successfully.
+2024-07-24 02:08:02,901 - INFO - Navigated to the login page.
+2024-07-24 02:08:02,924 - INFO - Email field located.
+2024-07-24 02:08:13,152 - ERROR - Failed to locate login elements: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001048cc078 chromedriver + 5169272
+1   chromedriver                        0x00000001048c3f4a chromedriver + 5136202
+2   chromedriver                        0x000000010444036c chromedriver + 402284
+3   chromedriver                        0x000000010448d740 chromedriver + 718656
+4   chromedriver                        0x000000010448da01 chromedriver + 719361
+5   chromedriver                        0x00000001044d2bc4 chromedriver + 1002436
+6   chromedriver                        0x00000001044b0add chromedriver + 862941
+7   chromedriver                        0x00000001044cff57 chromedriver + 991063
+8   chromedriver                        0x00000001044b0853 chromedriver + 862291
+9   chromedriver                        0x00000001044805c6 chromedriver + 665030
+10  chromedriver                        0x0000000104480e4e chromedriver + 667214
+11  chromedriver                        0x000000010488ec90 chromedriver + 4918416
+12  chromedriver                        0x0000000104893c8d chromedriver + 4938893
+13  chromedriver                        0x0000000104894365 chromedriver + 4940645
+14  chromedriver                        0x000000010486fd74 chromedriver + 4791668
+15  chromedriver                        0x0000000104894659 chromedriver + 4941401
+16  chromedriver                        0x0000000104861544 chromedriver + 4732228
+17  chromedriver                        0x00000001048b4828 chromedriver + 5072936
+18  chromedriver                        0x00000001048b49e7 chromedriver + 5073383
+19  chromedriver                        0x00000001048c3afe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff807a0518b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff807a00ae3 thread_start + 15
+
+2024-07-24 02:08:13,153 - ERROR - One or more login elements were not found.
+2024-07-24 02:08:13,226 - INFO - WebDriver closed.
+2024-07-24 04:25:25,792 - INFO - WebDriver initialized successfully.
+2024-07-24 04:25:27,031 - INFO - Navigated to the login page.
+2024-07-24 04:25:37,264 - ERROR - Failed to locate login elements: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010093f078 chromedriver + 5169272
+1   chromedriver                        0x0000000100936f4a chromedriver + 5136202
+2   chromedriver                        0x00000001004b336c chromedriver + 402284
+3   chromedriver                        0x0000000100500740 chromedriver + 718656
+4   chromedriver                        0x0000000100500a01 chromedriver + 719361
+5   chromedriver                        0x0000000100545bc4 chromedriver + 1002436
+6   chromedriver                        0x0000000100523add chromedriver + 862941
+7   chromedriver                        0x0000000100542f57 chromedriver + 991063
+8   chromedriver                        0x0000000100523853 chromedriver + 862291
+9   chromedriver                        0x00000001004f35c6 chromedriver + 665030
+10  chromedriver                        0x00000001004f3e4e chromedriver + 667214
+11  chromedriver                        0x0000000100901c90 chromedriver + 4918416
+12  chromedriver                        0x0000000100906c8d chromedriver + 4938893
+13  chromedriver                        0x0000000100907365 chromedriver + 4940645
+14  chromedriver                        0x00000001008e2d74 chromedriver + 4791668
+15  chromedriver                        0x0000000100907659 chromedriver + 4941401
+16  chromedriver                        0x00000001008d4544 chromedriver + 4732228
+17  chromedriver                        0x0000000100927828 chromedriver + 5072936
+18  chromedriver                        0x00000001009279e7 chromedriver + 5073383
+19  chromedriver                        0x0000000100936afe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff807a0518b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff807a00ae3 thread_start + 15
+
+2024-07-24 04:25:37,264 - ERROR - One or more login elements were not found.
+2024-07-24 04:25:37,339 - INFO - WebDriver closed.
+2024-07-24 04:57:59,427 - INFO - WebDriver initialized successfully.
+2024-07-24 04:58:00,732 - INFO - Navigated to the login page.
+2024-07-24 04:58:10,935 - ERROR - Failed to locate login elements: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100eb9078 chromedriver + 5169272
+1   chromedriver                        0x0000000100eb0f4a chromedriver + 5136202
+2   chromedriver                        0x0000000100a2d36c chromedriver + 402284
+3   chromedriver                        0x0000000100a7a740 chromedriver + 718656
+4   chromedriver                        0x0000000100a7aa01 chromedriver + 719361
+5   chromedriver                        0x0000000100abfbc4 chromedriver + 1002436
+6   chromedriver                        0x0000000100a9dadd chromedriver + 862941
+7   chromedriver                        0x0000000100abcf57 chromedriver + 991063
+8   chromedriver                        0x0000000100a9d853 chromedriver + 862291
+9   chromedriver                        0x0000000100a6d5c6 chromedriver + 665030
+10  chromedriver                        0x0000000100a6de4e chromedriver + 667214
+11  chromedriver                        0x0000000100e7bc90 chromedriver + 4918416
+12  chromedriver                        0x0000000100e80c8d chromedriver + 4938893
+13  chromedriver                        0x0000000100e81365 chromedriver + 4940645
+14  chromedriver                        0x0000000100e5cd74 chromedriver + 4791668
+15  chromedriver                        0x0000000100e81659 chromedriver + 4941401
+16  chromedriver                        0x0000000100e4e544 chromedriver + 4732228
+17  chromedriver                        0x0000000100ea1828 chromedriver + 5072936
+18  chromedriver                        0x0000000100ea19e7 chromedriver + 5073383
+19  chromedriver                        0x0000000100eb0afe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff807a0518b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff807a00ae3 thread_start + 15
+
+2024-07-24 04:58:10,935 - ERROR - One or more login elements were not found.
+2024-07-24 04:58:11,007 - INFO - WebDriver closed.
+2024-07-24 04:59:55,047 - INFO - WebDriver initialized successfully.
+2024-07-24 04:59:55,896 - INFO - Navigated to the login page.
+2024-07-24 05:00:06,123 - ERROR - Failed to locate login elements: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010c510078 chromedriver + 5169272
+1   chromedriver                        0x000000010c507f4a chromedriver + 5136202
+2   chromedriver                        0x000000010c08436c chromedriver + 402284
+3   chromedriver                        0x000000010c0d1740 chromedriver + 718656
+4   chromedriver                        0x000000010c0d1a01 chromedriver + 719361
+5   chromedriver                        0x000000010c116bc4 chromedriver + 1002436
+6   chromedriver                        0x000000010c0f4add chromedriver + 862941
+7   chromedriver                        0x000000010c113f57 chromedriver + 991063
+8   chromedriver                        0x000000010c0f4853 chromedriver + 862291
+9   chromedriver                        0x000000010c0c45c6 chromedriver + 665030
+10  chromedriver                        0x000000010c0c4e4e chromedriver + 667214
+11  chromedriver                        0x000000010c4d2c90 chromedriver + 4918416
+12  chromedriver                        0x000000010c4d7c8d chromedriver + 4938893
+13  chromedriver                        0x000000010c4d8365 chromedriver + 4940645
+14  chromedriver                        0x000000010c4b3d74 chromedriver + 4791668
+15  chromedriver                        0x000000010c4d8659 chromedriver + 4941401
+16  chromedriver                        0x000000010c4a5544 chromedriver + 4732228
+17  chromedriver                        0x000000010c4f8828 chromedriver + 5072936
+18  chromedriver                        0x000000010c4f89e7 chromedriver + 5073383
+19  chromedriver                        0x000000010c507afe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff807a0518b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff807a00ae3 thread_start + 15
+
+2024-07-24 05:00:06,123 - ERROR - One or more login elements were not found.
+2024-07-24 05:00:06,195 - INFO - WebDriver closed.
+2024-07-24 05:01:03,858 - INFO - WebDriver initialized successfully.
+2024-07-24 05:01:04,664 - INFO - Navigated to the login page.
+2024-07-24 05:01:14,896 - ERROR - Failed to locate login elements: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102228078 chromedriver + 5169272
+1   chromedriver                        0x000000010221ff4a chromedriver + 5136202
+2   chromedriver                        0x0000000101d9c36c chromedriver + 402284
+3   chromedriver                        0x0000000101de9740 chromedriver + 718656
+4   chromedriver                        0x0000000101de9a01 chromedriver + 719361
+5   chromedriver                        0x0000000101e2ebc4 chromedriver + 1002436
+6   chromedriver                        0x0000000101e0cadd chromedriver + 862941
+7   chromedriver                        0x0000000101e2bf57 chromedriver + 991063
+8   chromedriver                        0x0000000101e0c853 chromedriver + 862291
+9   chromedriver                        0x0000000101ddc5c6 chromedriver + 665030
+10  chromedriver                        0x0000000101ddce4e chromedriver + 667214
+11  chromedriver                        0x00000001021eac90 chromedriver + 4918416
+12  chromedriver                        0x00000001021efc8d chromedriver + 4938893
+13  chromedriver                        0x00000001021f0365 chromedriver + 4940645
+14  chromedriver                        0x00000001021cbd74 chromedriver + 4791668
+15  chromedriver                        0x00000001021f0659 chromedriver + 4941401
+16  chromedriver                        0x00000001021bd544 chromedriver + 4732228
+17  chromedriver                        0x0000000102210828 chromedriver + 5072936
+18  chromedriver                        0x00000001022109e7 chromedriver + 5073383
+19  chromedriver                        0x000000010221fafe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff807a0518b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff807a00ae3 thread_start + 15
+
+2024-07-24 05:01:14,896 - ERROR - One or more login elements were not found.
+2024-07-24 05:01:14,965 - INFO - WebDriver closed.
+2024-07-24 05:02:26,552 - INFO - WebDriver initialized successfully.
+2024-07-24 05:02:27,563 - INFO - Navigated to the login page.
+2024-07-24 05:02:37,772 - ERROR - Failed to locate login elements: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000105e9e078 chromedriver + 5169272
+1   chromedriver                        0x0000000105e95f4a chromedriver + 5136202
+2   chromedriver                        0x0000000105a1236c chromedriver + 402284
+3   chromedriver                        0x0000000105a5f740 chromedriver + 718656
+4   chromedriver                        0x0000000105a5fa01 chromedriver + 719361
+5   chromedriver                        0x0000000105aa4bc4 chromedriver + 1002436
+6   chromedriver                        0x0000000105a82add chromedriver + 862941
+7   chromedriver                        0x0000000105aa1f57 chromedriver + 991063
+8   chromedriver                        0x0000000105a82853 chromedriver + 862291
+9   chromedriver                        0x0000000105a525c6 chromedriver + 665030
+10  chromedriver                        0x0000000105a52e4e chromedriver + 667214
+11  chromedriver                        0x0000000105e60c90 chromedriver + 4918416
+12  chromedriver                        0x0000000105e65c8d chromedriver + 4938893
+13  chromedriver                        0x0000000105e66365 chromedriver + 4940645
+14  chromedriver                        0x0000000105e41d74 chromedriver + 4791668
+15  chromedriver                        0x0000000105e66659 chromedriver + 4941401
+16  chromedriver                        0x0000000105e33544 chromedriver + 4732228
+17  chromedriver                        0x0000000105e86828 chromedriver + 5072936
+18  chromedriver                        0x0000000105e869e7 chromedriver + 5073383
+19  chromedriver                        0x0000000105e95afe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff807a0518b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff807a00ae3 thread_start + 15
+
+2024-07-24 05:02:37,772 - ERROR - One or more login elements were not found.
+2024-07-24 05:02:37,878 - INFO - WebDriver closed.
+2024-07-24 05:03:18,607 - INFO - WebDriver initialized successfully.
+2024-07-24 05:03:19,441 - INFO - Navigated to the login page.
+2024-07-24 05:03:19,466 - INFO - Email field located.
+2024-07-24 05:03:29,670 - ERROR - Failed to locate login elements: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000104851078 chromedriver + 5169272
+1   chromedriver                        0x0000000104848f4a chromedriver + 5136202
+2   chromedriver                        0x00000001043c536c chromedriver + 402284
+3   chromedriver                        0x0000000104412740 chromedriver + 718656
+4   chromedriver                        0x0000000104412a01 chromedriver + 719361
+5   chromedriver                        0x0000000104457bc4 chromedriver + 1002436
+6   chromedriver                        0x0000000104435add chromedriver + 862941
+7   chromedriver                        0x0000000104454f57 chromedriver + 991063
+8   chromedriver                        0x0000000104435853 chromedriver + 862291
+9   chromedriver                        0x00000001044055c6 chromedriver + 665030
+10  chromedriver                        0x0000000104405e4e chromedriver + 667214
+11  chromedriver                        0x0000000104813c90 chromedriver + 4918416
+12  chromedriver                        0x0000000104818c8d chromedriver + 4938893
+13  chromedriver                        0x0000000104819365 chromedriver + 4940645
+14  chromedriver                        0x00000001047f4d74 chromedriver + 4791668
+15  chromedriver                        0x0000000104819659 chromedriver + 4941401
+16  chromedriver                        0x00000001047e6544 chromedriver + 4732228
+17  chromedriver                        0x0000000104839828 chromedriver + 5072936
+18  chromedriver                        0x00000001048399e7 chromedriver + 5073383
+19  chromedriver                        0x0000000104848afe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff807a0518b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff807a00ae3 thread_start + 15
+
+2024-07-24 05:03:29,670 - ERROR - One or more login elements were not found.
+2024-07-24 05:03:29,740 - INFO - WebDriver closed.
+2024-07-24 05:21:28,952 - INFO - WebDriver initialized successfully.
+2024-07-24 05:21:30,608 - INFO - Navigated to the login page.
+2024-07-24 05:21:30,627 - INFO - Email field located.
+2024-07-24 05:21:30,640 - INFO - Password field located.
+2024-07-24 05:21:30,652 - INFO - Login button located.
+2024-07-24 05:21:31,132 - INFO - Login button clicked.
+2024-07-24 05:21:46,206 - INFO - WebDriver closed.
+2024-07-24 05:25:28,279 - INFO - WebDriver initialized successfully.
+2024-07-24 05:25:29,358 - INFO - Navigated to the login page.
+2024-07-24 05:25:29,375 - INFO - Email field located.
+2024-07-24 05:25:29,391 - INFO - Password field located.
+2024-07-24 05:25:29,404 - INFO - Login button located.
+2024-07-24 05:25:29,824 - INFO - Login button clicked.
+2024-07-24 05:25:44,827 - INFO - succesfully logged in...
+2024-07-24 05:25:44,899 - INFO - WebDriver closed.
+2024-07-24 07:15:42,034 - INFO - WebDriver initialized successfully.
+2024-07-24 07:15:42,044 - INFO - webdriver initialized successfuly!
+2024-07-24 07:15:43,543 - INFO - Navigated to the login page.
+2024-07-24 07:15:43,577 - INFO - Email field located.
+2024-07-24 07:15:43,591 - INFO - Password field located.
+2024-07-24 07:15:43,603 - INFO - Login button located.
+2024-07-24 07:15:43,756 - INFO - Email typed: True
+2024-07-24 07:15:43,811 - INFO - Password typed: True
+2024-07-24 07:15:44,101 - INFO - Login button clicked.
+2024-07-24 07:15:44,105 - INFO - Successfully logged in.
+2024-07-24 07:15:44,179 - INFO - WebDriver closed.
+2024-07-24 08:38:20,882 - INFO - webdriver initialized successfuly!
+2024-07-24 08:38:22,553 - INFO - Navigated to the login page.
+2024-07-24 08:38:22,576 - INFO - Email field located.
+2024-07-24 08:38:22,598 - INFO - Password field located.
+2024-07-24 08:38:22,621 - INFO - Login button located.
+2024-07-24 08:38:23,112 - INFO - Email typed: True
+2024-07-24 08:38:23,189 - INFO - Password typed: True
+2024-07-24 08:38:23,250 - INFO - Login button clicked.
+2024-07-24 08:38:23,255 - INFO - Successfully logged in........
+2024-07-24 08:38:33,601 - INFO - WebDriver closed.
+2024-07-24 08:45:15,719 - INFO - webdriver initialized successfuly!
+2024-07-24 08:45:16,688 - INFO - Navigated to the login page.
+2024-07-24 08:45:16,732 - INFO - Email field located.
+2024-07-24 08:45:16,756 - INFO - Password field located.
+2024-07-24 08:45:16,778 - INFO - Login button located.
+2024-07-24 08:45:17,106 - INFO - Email typed: True
+2024-07-24 08:45:17,368 - INFO - Password typed: True
+2024-07-24 08:45:17,425 - INFO - Login button clicked.
+2024-07-24 08:45:17,430 - INFO - Successfully logged in........
+2024-07-24 08:45:27,870 - INFO - WebDriver closed.
+2024-07-24 09:50:26,066 - INFO - webdriver initialized successfuly!
+2024-07-24 09:50:27,160 - INFO - Navigated to the login page.
+2024-07-24 09:50:27,195 - INFO - Email field located.
+2024-07-24 09:50:27,211 - INFO - Password field located.
+2024-07-24 09:50:27,224 - INFO - Login button located.
+2024-07-24 09:50:27,389 - INFO - Email typed: True
+2024-07-24 09:50:27,429 - INFO - Password typed: True
+2024-07-24 09:50:27,463 - INFO - Login button clicked.
+2024-07-24 09:50:27,468 - INFO - Successfully logged in........
+2024-07-24 09:50:27,474 - INFO - on dashboard page with patients button
+2024-07-24 09:50:47,598 - ERROR - Navigation to Patients page failed: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010bf8f078 chromedriver + 5169272
+1   chromedriver                        0x000000010bf86f4a chromedriver + 5136202
+2   chromedriver                        0x000000010bb0336c chromedriver + 402284
+3   chromedriver                        0x000000010bb50740 chromedriver + 718656
+4   chromedriver                        0x000000010bb50a01 chromedriver + 719361
+5   chromedriver                        0x000000010bb95bc4 chromedriver + 1002436
+6   chromedriver                        0x000000010bb73add chromedriver + 862941
+7   chromedriver                        0x000000010bb92f57 chromedriver + 991063
+8   chromedriver                        0x000000010bb73853 chromedriver + 862291
+9   chromedriver                        0x000000010bb435c6 chromedriver + 665030
+10  chromedriver                        0x000000010bb43e4e chromedriver + 667214
+11  chromedriver                        0x000000010bf51c90 chromedriver + 4918416
+12  chromedriver                        0x000000010bf56c8d chromedriver + 4938893
+13  chromedriver                        0x000000010bf57365 chromedriver + 4940645
+14  chromedriver                        0x000000010bf32d74 chromedriver + 4791668
+15  chromedriver                        0x000000010bf57659 chromedriver + 4941401
+16  chromedriver                        0x000000010bf24544 chromedriver + 4732228
+17  chromedriver                        0x000000010bf77828 chromedriver + 5072936
+18  chromedriver                        0x000000010bf779e7 chromedriver + 5073383
+19  chromedriver                        0x000000010bf86afe chromedriver + 5135102
+20  libsystem_pthread.dylib             0x00007ff807a0518b _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff807a00ae3 thread_start + 15
+
+2024-07-24 09:50:47,674 - INFO - WebDriver closed.
